@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 9733115144e0647059d32fca54d508af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloud_posion_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 74
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5810811, y: 0.18032786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a450da0399465eab0724f9ca8b4dd
+      internalID: 868719188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_posion_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 89
+        height: 62
+      alignment: 9
+      pivot: {x: 0.58426964, y: 0.17741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6803b02a245043a9aed56924665fd27
+      internalID: -1589292948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_posion_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 29
+        width: 99
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5252525, y: 0.17460318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f980c5b25f864eddaf00266f093dd37
+      internalID: -1852396665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_posion_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 23
+        width: 125
+        height: 62
+      alignment: 9
+      pivot: {x: 0.416, y: 0.17741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4616a23a13ca469eac46a17391e1452
+      internalID: -554480132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_posion_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 16
+        width: 126
+        height: 59
+      alignment: 9
+      pivot: {x: 0.468254, y: 0.18644068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b841d522e7a456da19a6e45b3074cf
+      internalID: -793047609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_posion_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 15
+        width: 124
+        height: 57
+      alignment: 9
+      pivot: {x: 0.44354838, y: 0.19298245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b527a29fcee4f8aa53e02de4e87066
+      internalID: 1959986797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_posion_8
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 11
+        width: 122
+        height: 57
+      alignment: 9
+      pivot: {x: 0.43442622, y: 0.28070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6301f24cde9942ff8eda00eb244e7ee
+      internalID: -1040176824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_posion_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 19
+        width: 126
+        height: 63
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.17460318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925292efff68b4cc7a1bd63f39a1029b
+      internalID: 330588690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_posion_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 16
+        width: 128
+        height: 62
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.17741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43536f3944be446ceb8463e865589ca6
+      internalID: -44446704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cloud_posion_0: 868719188
+      Cloud_posion_1: -1589292948
+      Cloud_posion_10: -1568758803
+      Cloud_posion_11: -776417175
+      Cloud_posion_12: -2084580088
+      Cloud_posion_13: 1441041725
+      Cloud_posion_14: -1360742261
+      Cloud_posion_16: 588218529
+      Cloud_posion_17: 1178422444
+      Cloud_posion_18: -714583810
+      Cloud_posion_19: -1796494662
+      Cloud_posion_2: -1852396665
+      Cloud_posion_20: -1980584988
+      Cloud_posion_21: 1792485446
+      Cloud_posion_22: -1508202276
+      Cloud_posion_23: -16136797
+      Cloud_posion_3: -554480132
+      Cloud_posion_4: 330588690
+      Cloud_posion_5: -44446704
+      Cloud_posion_6: -793047609
+      Cloud_posion_7: 1959986797
+      Cloud_posion_8: -1040176824
+      Cloud_posion_9: -1964593924
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
